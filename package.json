@@ -1,0 +1,20 @@
+{
+  "name": "b7web-projeto-compra-pizzas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pizzas.js",
+  "scripts": {
+    "localhost": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrk-qa/b7web-projeto-compra-de-pizzas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrk-qa/b7web-projeto-compra-de-pizzas/issues"
+  },
+  "homepage": "https://github.com/mrk-qa/b7web-projeto-compra-de-pizzas#readme"
+}
