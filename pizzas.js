@@ -6,4 +6,4 @@ let pizzaJson = [
     {id:5, name:'Portuguesa', img:'images/pizza5.png', price:25.99, sizes:['320g', '530g', '860g'], description:'Presunto, mussarela, milho, ervilha, cebola, ovo, molho de tomate e orégano'},
     {id:6, name:'Paulista', img:'images/pizza6.png', price:25.99, sizes:['320g', '530g', '860g'], description:'Calabresa, mussarela, cebola, molho de tomate e orégano'},
     {id:7, name:'Chocolate', img:'images/pizza7.png', price:29.99, sizes:['320g', '530g', '860g'], description:'Chocolate com avelã e confetes coloridos'}
-];
+]
